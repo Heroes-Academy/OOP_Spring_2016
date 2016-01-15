@@ -1,8 +1,8 @@
 .. OOP course documentation. In development
 .. Author: Brian McMahan
 
-HEROES Academy: Objeted Oriented Programming, Spring 2016
-=========================================================
+HEROES Academy: Object Oriented Programming, Spring 2016
+========================================================
 
 Course Description
 ==================
@@ -14,7 +14,7 @@ Building upon the Introduction to Python course, we will use Pygame and Python t
 How to Browse This Document
 ===========================
 
-This document is intended to be a companion to the Objected Oriented Programming course taught at HEROES Academy.  For more information about HEROES Academy, please visit it `here`__.
+This document is intended to be a companion to the Object Oriented Programming course taught at HEROES Academy.  For more information about HEROES Academy, please visit it `here`__.
 
 This document is still in the works.  The Spring session does not begin until the second weekend in April.
 
